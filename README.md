@@ -14,8 +14,8 @@ I'm passionate about the frontend, UX and accessiblity. That is, I love building
 
 ## Strengths
 
-- Problem-Solving (splitting a big problem into many small problems)
-- Eye for clean, accessible designs
+- Problem-Solving (breaking down a big problem into many small problems)
+- Eye for clean, appealing designs
 - Skilled at googling
 - Team player (I can work well with different personality types)
 - Growth Mindset
