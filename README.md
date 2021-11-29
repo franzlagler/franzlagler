@@ -1,8 +1,18 @@
-## Welcome to my GitHub Profile! 😃
+# Franz Lagler
 
-My name is Franz. I'm a Web Devloper living in lovely Vienna, Austria. :austria: :eu:
+Hi, my name is Franz. I'm a Web Devloper living in lovely Vienna, Austria. :austria: :eu:
+
+## My Focus
 
 I'm passionate about frontend, UX and accessiblity. That is, I love building applications that don't just 'work' but that all people regardless of their background also love to use. 
+
+## My Tech Stack
+
+<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Javascript Logo" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="Node.js" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Tyepscript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg" alt="Styled Components Logo" width="50" height="50"/>
+
+
+
+## Background
 
 I hold a degree in philosophy and worked in several areas such as IT Management and politics.
 
