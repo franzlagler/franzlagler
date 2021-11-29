@@ -1,14 +1,16 @@
-# Franz Lagler
 
-Hi, my name is Franz. I'm a Web Devloper living in lovely Vienna, Austria. :austria: :eu:
+# Hi, I'm Franz! 👋
+
+Welcome to my profile! I'm a Web Devloper living in lovely Vienna, Austria. :austria: :eu:
 
 ## My Focus
 
-I'm passionate about frontend, UX and accessiblity. That is, I love building applications that don't just 'work' but that all people regardless of their background also love to use. 
+I'm passionate about the frontend, UX and accessiblity. That is, I love building applications that don't just 'work' but that are also intuitive, easy-to-use and liked by users.
 
 ## My Tech Stack
 
-<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Javascript Logo" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="Node.js" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Tyepscript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg" alt="Styled Components Logo" width="50" height="50"/>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript Logo" width="30" height="30">  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js Logo" width="30" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="30" height="30"/> <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="Next.js Logo" width="30" height="30"/> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Tyepscript Logo" width="30" height="30"/> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL Logo" width="30" height="30"/> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB Logo" width="30" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg" alt="Styled Components Logo" width="30" height="30"/><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git Logo" width="30" height="30"/><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub Logo" width="30" height="30"/><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VS Code Logo" width="30" height="30"/><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma Logo" width="30" height="30"/>
 
 
 
