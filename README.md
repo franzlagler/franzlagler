@@ -1,29 +1,15 @@
 
-# Hi, I'm Franz! 👋
+# Hello, my name is Franz 👨🏼‍💻
 
-Welcome to my profile! I'm a Web Devloper living in lovely Vienna, Austria. :austria: :eu:
+![personal details react component](https://user-images.githubusercontent.com/78586991/228518310-828f984f-7be4-46f5-b76a-19fa25adb80e.svg)
 
-## My Focus
+I'm a web developer with a strong passion for user-centered designs and A11y. Let's make them what they are supposed to be - an integral part of our developer jobs. And let's convince those in doubt about it.
 
-I'm passionate about the frontend, UX and accessiblity. That is, I love building applications that don't just 'work' but that are also intuitive, easy-to-use and liked by users.
-
-## My Tech Stack
+Definitely always up to learn something new in my profession. Whether it's by simply reading through a documentary online, being confronted with a complex challenge at work or by talking to other fellow developers and listening to their stories.  
 
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript Logo" width="30" height="30">  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js Logo" width="30" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="30" height="30"/> <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="Next.js Logo" width="30" height="30"/> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Tyepscript Logo" width="30" height="30"/> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL Logo" width="30" height="30"/> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB Logo" width="30" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg" alt="Styled Components Logo" width="30" height="30"/><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git Logo" width="30" height="30"/><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub Logo" width="30" height="30"/><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VS Code Logo" width="30" height="30"/><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma Logo" width="30" height="30"/>
+## Random Facts About Me
 
-## Strengths
-
-- Problem-Solving (breaking down a big problem into many small problems)
-- Eye for clean, appealing designs
-- Skilled at googling
-- Team player (I can work well with different personality types)
-- Growth Mindset
-
-## Background
-
-I hold a degree in philosophy and worked in several areas such as IT Management and politics.
-
-During the pandemic, I decided to reorient myself professionally. Always having had a thing for computers - I would install Ubuntu on my PC when I was 11 - I decided to look for opportunities to get into software engineering. After having done some research, I ended up doing a small introductory Web Development course. What can I say - it was an instant match. I loved everything about it and finished it in no time. Yet I knew I was still far away from being in a position where I could apply for a job.   
-
-That's why I decided to enroll for a full-time Web Development Bootcamp by [UpLeveled GmbH](https://upleveled.io/) here in Vienna. After five months of hard work and a lot of error messages, I can now confidently say that I have what it takes to land my first job as a developer.
+- I hold a degree in philosophy and therefore know all about the Categorical Imperative by Immanuel Kant
+- Before ending up in web development, I tried out a lot of different things including bartendering, journalism and politics
+- Becoming a true expert in CSS is a goal I seek to achieve in my lifetime 
